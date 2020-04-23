@@ -1,8 +1,9 @@
 ### How to run it
 - Open your terminal
+- do ```npm install http-server -g```
 - git clone https://github.com/AttiqUrRehman007/Projects
-- cd Projects/Timer
-- 
+- cd Projects
+- now run ```http-server Timer/```- 
 
 ### Requirements
-- Node 8.9.2
+- Node 13.13.0
